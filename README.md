@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Software Engineer currently studying at Blackpool and the Fylde College.</h3>
 
 
-- 🌱 I’m currently working on my degree for **Software Engineering**
+- 🌱 I’m currently in the process of earning my degree as a **Software Engineer**
 
 - 📫 You can email me at **dean_coles@outlook.com**
  
