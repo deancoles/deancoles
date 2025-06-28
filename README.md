@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on my degree for **Software Engineering**
 
-- 📝 I regularly write articles on [deansejourney.blogspot.com/](deansejourney.blogspot.com/)
+- 📝 I go into greater detail regarding my projects on [my blog](http://deansejourney.blogspot.com/)
 
 - 📫 You can email me at **dean_coles@outlook.com**
 
