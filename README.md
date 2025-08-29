@@ -1,35 +1,46 @@
 <h1 align="center">Greetings, I'm Dean 👋</h1>
-<h3 align="center">Software Engineering student specialising in databases and SQL. Building practical portfolio projects and exploring SQL vs NoSQL.</h3>
+<h3 align="center">Software Engineering student specialising in databases and data analysis, with additional experience in application development.</h3>
 
-### 🔭 What I'm working on
-- Designing and analysing database projects (e.g., library systems, collections databases)
-- Building queries for data analysis, reporting, and insight generation
-- Exploring SQL vs NoSQL approaches and their applications in real-world contexts
-- Expanding my portfolio with database-driven applications (cross-platform and desktop)
+---
+### 🛠 Technical Skills  
 
-### 🛠 Skills & Tools
-- Databases: MySQL, SQLite, PostgreSQL, MongoDB (schema design, constraints, optimisation)
-- Data Analysis: SQL (joins, aggregates, CTEs, window functions), reporting queries
-- Programming: C# (applications), Python (data scripts)
-- Development: .NET MAUI (cross-platform apps), Unity
-- Other Tools: Git, MySQL Workbench, DB Browser, XAMPP
+&nbsp;&nbsp;&nbsp;&nbsp;Databases and data analysis form the foundation of my work, enhanced by broader software engineering skills:
 
-### 🚀 Future Goals
-- Build more portfolio projects focused on database design, optimisation, and reporting
-- Develop stronger data analysis skills using SQL for insights and decision-making
-- Gain experience with ETL processes, data pipelines, and reporting tools
-- Explore career pathways in database engineering, data analysis, or data management
-- Contribute open-source database projects and learning resources
+**&nbsp;&nbsp;&nbsp;&nbsp;Data Analysis & Querying**  
+&nbsp;&nbsp;&nbsp;&nbsp;![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### ✍️ Writing
-- I share reflections on my learning journey and projects at [Dean's Journey](http://deansejourney.blogspot.com/).
+**&nbsp;&nbsp;&nbsp;&nbsp;Database Management & Utilities**  
+&nbsp;&nbsp;&nbsp;&nbsp;![DB Browser](https://img.shields.io/badge/DB%20Browser-2C8EBB?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+&nbsp;&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
 
+**&nbsp;&nbsp;&nbsp;&nbsp;Development & Workflow**  
+&nbsp;&nbsp;&nbsp;&nbsp;![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dean-coles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dean-coles" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mysegdjourney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mysegdjourney" height="30" width="40" /></a>
-</p>
+---
 
+### 🚀 Future Goals  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deancoles&show_icons=true&locale=en&layout=compact" alt="deancoles" /></p>
+- Build more portfolio projects focused on database design, optimisation, and reporting  
+- Develop stronger data analysis skills using SQL and Power BI for insights and decision-making  
+- Continue improving in software engineering, including application development with C# and .NET  
+- Gain experience with ETL processes, data pipelines, and reporting tools  
+- Explore career pathways in database engineering, data analysis, or software engineering  
+
+---
+
+### ✍️ Writing  
+
+&nbsp;&nbsp;&nbsp;&nbsp;I document my learning, portfolio projects, and insights into databases and software engineering at [my blog](http://deansjourney.blogspot.com/). 
+
+---
+
+### 📫 Connect with me  
+&nbsp;&nbsp;&nbsp;&nbsp;**Let’s connect — feel free to reach out for collaboration or opportunities:**  
+
+&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOURUSERNAME) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOURCHANNEL) 
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dean_coles@outlook.com)  
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deancoles&hide=ShaderLab,HLSL,C%2B%2B,Mathematica&langs_count=3&layout=compact&custom_title=My%20Core%20Languages)
