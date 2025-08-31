@@ -18,6 +18,17 @@
 
 ---
 
+### 🎓 Certifications  
+
+&nbsp;&nbsp;&nbsp;&nbsp;[![CS50 SQL](https://img.shields.io/badge/CS50_SQL-crimson?style=for-the-badge)](https://certificates.cs50.io/fc95c6f2-7558-4e02-99e7-5064669c5cec.pdf?size=letter) 
+&nbsp;&nbsp;&nbsp;![Foundation Degree](https://img.shields.io/badge/Foundation_Degree-Software_Engineering-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white)
+
+### 📚 Currently Studying  
+
+&nbsp;&nbsp;&nbsp;&nbsp;![BSc (Hons)](https://img.shields.io/badge/BSc_(Hons)-Software_Engineering-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white)
+
+---
+
 ### 🚀 Future Goals  
 
 - Build more portfolio projects focused on database design, optimisation, and reporting  
